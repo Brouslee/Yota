@@ -1,4 +1,4 @@
-[ 
+[
     {
         "domain": ".messenger.com",
         "hostOnly": false,
